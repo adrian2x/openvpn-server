@@ -1,0 +1,1 @@
+wget --no-cache https://raw.githubusercontent.com/adrian2x/openvpn-server/main/setup.sh && sudo bash setup.sh
